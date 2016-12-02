@@ -13,7 +13,7 @@ namespace MyVSGitExample2
 
             int a = 3;
 
-            int b = 2;
+            int b = 22;
         }
     }
 }
