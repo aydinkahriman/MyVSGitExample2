@@ -18,6 +18,8 @@ namespace MyVSGitExample2
             int c;
 
             string s = "my_example_branch";
+
+            string aaaa = "ben";
         }
     }
 }
