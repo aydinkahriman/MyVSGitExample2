@@ -16,6 +16,8 @@ namespace MyVSGitExample2
             int b = 22;
 
             int c;
+
+            string s = "master";
         }
     }
 }
