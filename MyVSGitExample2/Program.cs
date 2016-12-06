@@ -17,7 +17,7 @@ namespace MyVSGitExample2
 
             int c;
 
-            string s = "master";
+            string s = "my_example_branch";
         }
     }
 }
