@@ -22,6 +22,8 @@ namespace MyVSGitExample2
             string s = "my_example_baaaaaranch";
             
             // Comment 123456
+
+            // CHANGE
         }
     }
 }
