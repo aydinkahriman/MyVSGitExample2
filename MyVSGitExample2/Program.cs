@@ -23,7 +23,7 @@ namespace MyVSGitExample2
             
             // Comment 123456
 
-            // CHANGE
+            // CHANGE1
         }
     }
 }
